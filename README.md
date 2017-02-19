@@ -1,7 +1,7 @@
 # Roundtrip finder
 *Warning:* This project finds flight information from Google Flights, do not abuse their services.
 
-This code is in no way affiliated with, authorized, maintained, sponsored or endorsed by Google or any of its affiliates or subsidiaries. This is an independent and unofficial API. Use at your own risk.
+This code is in no way affiliated with, authorized, maintained, sponsored or endorsed by Google or any of its affiliates or subsidiaries. This scrapes the data from Google Flights. Use at your own risk.
 
 The roundtrip finder searches for the cheapest tour within given locations.
 ## Functionality
