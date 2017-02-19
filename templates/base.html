@@ -1,0 +1,33 @@
+{% load staticfiles %}
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Roundtrip</title>
+
+<!-- Latest compiled and minified CSS -->
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/latest/css/bootstrap.min.css">
+
+<!-- Optional theme -->
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/latest/css/bootstrap-theme.min.css">
+    <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
+
+<link rel="stylesheet" href="https://unpkg.com/react-select/dist/react-select.css">
+<link rel="stylesheet" href="/static/css/react-big-calendar.css">
+{% csrf_token %}
+
+</head>
+<body>
+<!-- Static navbar -->
+<nav class="navbar navbar-default navbar-static-top">
+    <div class="container">
+        <div class="navbar-header">
+            <a class="navbar-brand" href="/"><i class="fa fa-plane" aria-hidden="true"></i> Roundtrip</a>
+        </div>
+    </div><!--/.nav-collapse -->
+</nav>
+<div class="container">
+{% block content %}{% endblock %}
+</div>
+
+</body>
+</html>

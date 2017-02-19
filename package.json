@@ -1,0 +1,40 @@
+{
+  "name": "roundtrip",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack-dev-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@reactivex/rxjs": "^5.1.0",
+    "babel": "^6.5.2",
+    "babel-core": "^6.22.1",
+    "babel-loader": "^6.2.10",
+    "babel-preset-es2015": "^6.22.0",
+    "babel-preset-es2015-loose": "^8.0.0",
+    "babel-preset-react": "^6.22.0",
+    "babel-preset-stage-2": "^6.22.0",
+    "bootstrap": "^3.3.7",
+    "react": "^15.4.2",
+    "react-dom": "^15.4.2",
+    "react-hot-loader": "^3.0.0-beta.6",
+    "rxjs-react-component": "^0.2.4",
+    "webpack": "^2.2.1",
+    "webpack-bundle-tracker": "^0.2.0",
+    "webpack-dev-server": "^2.2.0",
+    "webpack-hot-middleware": "^2.16.1"
+  },
+  "dependencies": {
+    "moment": "^2.17.1",
+    "react-big-calendar": "^0.12.3",
+    "react-bootstrap": "^0.30.7",
+    "react-bootstrap-select": "^0.14.0",
+    "react-datepicker": "^0.40.0",
+    "react-select": "^1.0.0-rc.3",
+    "whatwg-fetch": "^2.0.2"
+  }
+}
