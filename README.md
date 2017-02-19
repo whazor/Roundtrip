@@ -1,7 +1,7 @@
 # Roundtrip finder
-*Warning:* This project finds flight information from Google Flights, do not abuse their services.
+*Warning:* This project finds flight information from Google Flights and room price information from AirBNB, do not abuse their services.
 
-This code is in no way affiliated with, authorized, maintained, sponsored or endorsed by Google or any of its affiliates or subsidiaries. This scrapes the data from Google Flights. Use at your own risk.
+This code is in no way affiliated with, authorized, maintained, sponsored or endorsed by Google or AirBnB or any of their affiliates or subsidiaries. This crawls the data from Google Flights and AirBnB. Use at your own risk.
 
 The roundtrip finder searches for the cheapest tour within given locations.
 ## Functionality
