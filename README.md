@@ -1,3 +1,9 @@
+# New: Tripchemy
+After using the below project, me and @Roconda started developing a version that scrapes from airlines directly and uses smart algorithms to directly provide routes. Check out https://nerd.tripchemy.com/ for an alpha version.
+
+
+
+
 # Roundtrip finder
 *Warning:* This project finds flight information from Google Flights and room price information from AirBNB, do not abuse their services.
 
