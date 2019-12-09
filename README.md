@@ -1,5 +1,5 @@
 # New: Tripchemy
-After using the below project, me and @Roconda started developing a version that scrapes from airlines directly and uses smart algorithms to directly provide routes. Check out https://nerd.tripchemy.com/ for an alpha version.
+After using the below project, @Roconda and me started developing a version that scrapes from airlines directly and uses smart algorithms to directly provide cool routes. Check out https://www.tripchemy.com/ for the latest versions.
 
 
 
