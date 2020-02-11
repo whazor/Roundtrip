@@ -1,5 +1,5 @@
 arrow==0.10.0
-Django==1.10.5
+Django==1.11.28
 django-cors-headers==2.0.2
 moment==0.6
 python-dateutil==2.6.0
